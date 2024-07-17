@@ -1,6 +1,6 @@
 ## A collection of Textures Unlimited Recolour Depot recolours for all of the parts from the Missing History mod
 
-![wow look at them all](TU_MissingHistory_image.png)
+![wow look at them all](https://i.imgur.com/8xJxTgI.png)
 
 # Dependencies:
 - [Textures Unlimited](https://forum.kerbalspaceprogram.com/topic/167450-19x-textures-unlimited-pbr-shader-texture-set-and-model-loading-api/)
